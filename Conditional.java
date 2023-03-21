@@ -2,6 +2,94 @@ package Basic_Java;
 
 import java.util.Scanner;
 
+/*
+ * Conditional Statements : 
+ * 
+ * Condition : it is a boolean value. it will evaluate to either true/false
+ * 
+ *1) simple if
+ *
+ *	Syntax: 
+ *			if(condition)
+ *			{
+ *				//statements
+ *			}
+ *
+ *2) if/else
+ *
+ *	syntax: if(condition)
+ *			{
+ *				//statements
+ *			}
+ *			else
+ *			{
+ *				//statement
+ *			}
+ *
+ *3) nested if/else
+ *
+ * syntax : if(condition)
+ * 			{
+ *				if(condition)
+ *				{	
+ *					//statements
+ *				}
+ *				else
+ * 				{
+ * 					//statements	
+ * 				}
+ * 			}
+ * 			else
+ * 			{
+ * 				if(condition)
+ *				{	
+ *					//statements
+ *				}
+ *				else
+ * 				{
+ * 					//statements	
+ * 				} 				
+ * 			}
+ * 
+ * 4) Ladder if/else
+ * 
+ * Syntax:
+ * 
+ * 			if(condition)
+ * 			{
+ * 				//statements
+ * 			}
+ * 			else if(condition)
+ * 			{
+ * 				//statements
+ * 			}
+ * 			else if(condition)
+ * 			{
+ * 				//statements
+ * 			}
+ * 			else if(condition)
+ * 			{
+ * 				//statements
+ * 			}
+ * 			else
+ * 			{
+ * 				//statements
+ * 			}
+ * 
+ *
+ *
+ * 
+ *2) if/else
+ *3) nested if/else
+ *4) ladder if/else
+ * 			
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+
 public class Conditional {
 	public static void main(String[] args) {
 		
